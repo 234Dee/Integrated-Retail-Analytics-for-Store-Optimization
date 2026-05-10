@@ -175,10 +175,4 @@ This project demonstrates how **data science and machine learning** can be effec
 
 ---
 
-## 📬 Contact
 
-For questions or collaboration:
-
-* **Author:** [Dheeraj Patel]
-* **Email:** [[patel.dheeraj98@gmail.com](mailto:patel.dheeraj98@gmail.com)]
-* **LinkedIn/GitHub:** [www.linkedin.com/in/patel-dheeraj]
